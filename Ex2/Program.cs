@@ -13,3 +13,4 @@ for (int i = 0; i < num.Length; i++)
 int sum = ms.Sum();
 System.Console.WriteLine(sum);
 
+// Гуглил, хотелось бы еще разобраться в этом методе перевода строки в массив по подробнее
